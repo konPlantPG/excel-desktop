@@ -6,3 +6,5 @@
 
 この時下のLineとScatterでグラフを折線グラフか散布図かを選ぶ事ができるようになります。
 ![アプリの操作画面](https://github.com/konPlantPG/excel-desktop/blob/master/excel_graph_app.png)
+
+pythonでmain.pyを実行していただければ起動いたします。
